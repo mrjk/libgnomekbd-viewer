@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Current Keyboard Layout
+Comment=Preview keyboard layouts
+# Translators: Do NOT translate or transliterate this text (this is an icon file name)!
+Icon=preferences-desktop-keyboard
+Exec=/usr/local/bin/gkbd-keyboard-display-current
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=libgnomekbd
+X-GNOME-Bugzilla-Component=Drawing
+X-GNOME-Bugzilla-Version=3.22.0.1
+OnlyShowIn=GNOME;XFCE
+Categories=GNOME;GTK;Core;System;XFCE;GTK;Settings;DesktopSettings;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings;
