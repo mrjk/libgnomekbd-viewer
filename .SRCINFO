@@ -1,0 +1,12 @@
+pkgbase = libgnomekbd-viewer
+	pkgdesc = Allow to show the current keyboard layout map with the gkbd-keyboard-display Gnome utiliy
+	pkgver = 20170403
+	pkgrel = 1
+	url = https://github.com/mrjk/libgnomekbd-viewer.git
+	arch = any
+	license = GPL
+	source = libgnomekbd-viewer::https://github.com/mrjk/libgnomekbd-viewer#branch=master
+	md5sums = SKIP
+
+pkgname = libgnomekbd-viewer
+
