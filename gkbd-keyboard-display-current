@@ -1,0 +1,3 @@
+#!/bin/sh
+
+printf  "%s$'\t'%s" $(xkblayout-state print "%s %v") | xargs  gkbd-keyboard-display  -l
