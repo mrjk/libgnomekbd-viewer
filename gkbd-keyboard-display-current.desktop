@@ -3,7 +3,7 @@ Name=Current Keyboard Layout
 Comment=Preview keyboard layouts
 # Translators: Do NOT translate or transliterate this text (this is an icon file name)!
 Icon=preferences-desktop-keyboard
-Exec=/usr/local/bin/gkbd-keyboard-display-current
+Exec=gkbd-keyboard-display-current
 Terminal=false
 Type=Application
 StartupNotify=true
